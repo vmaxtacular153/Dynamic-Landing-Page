@@ -1,0 +1,11 @@
+{
+  "name": "javascriptprojects",
+  "version": "1.0.0",
+  "description": "Create dynamic landing page",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veronica Maxwell",
+  "license": "ISC"
+}
